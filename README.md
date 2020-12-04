@@ -40,6 +40,7 @@ A helpful checklist to gauge how your README is coming on what I would like to f
 
 - [ ] Double check that the model I found actually works.
 - [ ] Use click cli to walk through images in a folder. [Click Blog](https://medium.com/better-programming/python-click-building-your-first-command-line-interface-application-6947d5319ef7)
+- [ ] Use [marshmallow](https://marshmallow.readthedocs.io/en/stable/index.html) so I don't have to write lots of checking code when passing around data state.
 
 ## Contributing
 
